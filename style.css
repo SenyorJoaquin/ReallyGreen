@@ -5,6 +5,10 @@
     --color-four: #FFFFFF;
 }
 
+body {
+    margin: 0px;
+}
+
 
 /*==================================== Background Leaves (DO NOT TOUCH) ====================================*/
 #leaves {
@@ -381,7 +385,7 @@ main {
     /* Adjust as needed */
     transition: box-shadow 0.3s ease;
     /* Add transition for box shadow */
-
+    height: 80px;
 }
 
 .sticky {
